@@ -1,0 +1,29 @@
+{
+  "name": "themodernjavascript/react-in-laravel",
+  "type": "library",
+  "description": "Official package to use React in Laravel.",
+  "keywords": ["laravel", "react", "reactjs", "blade", "react-in-laravel"],
+  "homepage": "https://github.com/Seldaek/monolog",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Bunlong",
+      "email": "bunlong.van@gmail.com",
+      "homepage": "https://www.themodernjs.com",
+      "role": "Full Stack Software Engineer"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "illuminate/support": "~5.0"
+  },
+  "require-dev": {
+    "phpspec/phpspec": "~2.1",
+    "mockery/mockery": "0.9.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "React\\": "src"
+    }
+  }
+}
