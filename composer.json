@@ -3,7 +3,7 @@
   "type": "library",
   "description": "Official package to use React in Laravel.",
   "keywords": ["laravel", "react", "reactjs", "blade", "react-in-laravel"],
-  "homepage": "https://github.com/Seldaek/monolog",
+  "homepage": "https://github.com/themodernjavascript/react-in-laravel",
   "license": "MIT",
   "authors": [
     {
